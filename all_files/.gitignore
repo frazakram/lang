@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Ignore all files in the following directories
+chain/
+unstruct_out/
+structured_output/
+Prompt/
+Embeddingmodel/
+Chatmodels/
+LLMs/
+
+# Ignore specific files
+req.txt
